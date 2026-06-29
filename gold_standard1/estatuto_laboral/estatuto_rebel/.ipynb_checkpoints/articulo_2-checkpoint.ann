@@ -1,3 +1,0 @@
-T1	concept 0 20	Relaciones laborales
-T2	concept 24 41	carácter especial
-R1	has quality Arg1:T1 Arg2:T2

@@ -1,3 +1,0 @@
-T1	concept 0 22	Extinción por voluntad
-T2	concept 14 22	voluntad
-R1	subclass of Arg1:T1 Arg2:T2
